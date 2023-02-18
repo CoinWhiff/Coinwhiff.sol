@@ -1,1 +1,1 @@
-# CoinWhiff.sol
+# Coinwhiff.sol
